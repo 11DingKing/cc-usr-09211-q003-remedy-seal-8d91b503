@@ -8,6 +8,8 @@
   },
   "scripts": {
     "test": "node --test",
-    "start": "node service.mjs"
+    "start": "node service.mjs",
+    "seed": "node scripts/seed.mjs",
+    "demo": "node scripts/demo.mjs"
   }
 }

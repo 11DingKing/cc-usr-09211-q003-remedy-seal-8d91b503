@@ -1,0 +1,113 @@
+[
+ {
+  "measure_id": "MS-2026-0007",
+  "measure": "K12+300 段排水沟清淤与盖板修复",
+  "site": {
+   "name": "青山乡·云岭村三组路口",
+   "code": "QS-YL-03",
+   "longitude": 118.1234,
+   "latitude": 30.5678
+  },
+  "capture_at": "2026-09-12T09:30:00+08:00",
+  "files": [
+   {
+    "name": "现场全景照.jpg",
+    "media": "image/jpeg",
+    "role": "site_photo",
+    "path": "MS-2026-0007/现场全景照.jpg",
+    "size": 3215,
+    "sha256": "f7e15a930ca811f4f4a29c17d231becc61d77eed904cde4a8c5d216016b868a2"
+   },
+   {
+    "name": "清淤前后对比.jpg",
+    "media": "image/jpeg",
+    "role": "site_photo",
+    "path": "MS-2026-0007/清淤前后对比.jpg",
+    "size": 4242,
+    "sha256": "1fa1219efb3d626ac420d008c9717bfa9ba573246b0dbaa0adc9e90ed79744ec"
+   },
+   {
+    "name": "排水沟断面丈量记录.txt",
+    "media": "text/plain",
+    "role": "field_note",
+    "path": "MS-2026-0007/排水沟断面丈量记录.txt",
+    "size": 5275,
+    "sha256": "3c1c59136b532735e4991b2b3bc28d623613e0c2a15cac8bf201927d4a7e5f84"
+   }
+  ]
+ },
+ {
+  "measure_id": "MS-2026-0008",
+  "measure": "村道 C021 照明灯具更换（12 盏）",
+  "site": {
+   "name": "青山乡·石桥镇沿河步道",
+   "code": "QS-SQ-07",
+   "longitude": 118.1241,
+   "latitude": 30.569
+  },
+  "capture_at": "2026-09-14T16:10:00+08:00",
+  "files": [
+   {
+    "name": "灯具安装点位照.jpg",
+    "media": "image/jpeg",
+    "role": "site_photo",
+    "path": "MS-2026-0008/灯具安装点位照.jpg",
+    "size": 3221,
+    "sha256": "45b5b4d7bfa89d07640d8fee0158738588496345e092a369ce561f8018fc0737"
+   },
+   {
+    "name": "通电试亮记录.txt",
+    "media": "text/plain",
+    "role": "field_note",
+    "path": "MS-2026-0008/通电试亮记录.txt",
+    "size": 4242,
+    "sha256": "ad6be5a93789dfab1cc1f3b89559106d5a15f16c12b66220e9d868a7195621f9"
+   },
+   {
+    "name": "灯具合格证摘要.txt",
+    "media": "text/plain",
+    "role": "doc_summary",
+    "path": "MS-2026-0008/灯具合格证摘要.txt",
+    "size": 5269,
+    "sha256": "268411db2025a458f0cd94ca8c7a12f78a500182f480ec7347ae361ed49a498e"
+   }
+  ]
+ },
+ {
+  "measure_id": "MS-2026-0009",
+  "measure": "候车亭基础混凝土浇筑与警示标识补设",
+  "site": {
+   "name": "青山乡·大田村候车点",
+   "code": "QS-DT-02",
+   "longitude": 118.1302,
+   "latitude": 30.5721
+  },
+  "capture_at": "2026-09-18T10:05:00+08:00",
+  "files": [
+   {
+    "name": "基础钢筋绑扎照.jpg",
+    "media": "image/jpeg",
+    "role": "site_photo",
+    "path": "MS-2026-0009/基础钢筋绑扎照.jpg",
+    "size": 3218,
+    "sha256": "9e68674edb3d8819c66ea128a66f85ca410c99dbc614d5ecb55f8a3e4e3c1ddb"
+   },
+   {
+    "name": "浇筑完成照.jpg",
+    "media": "image/jpeg",
+    "role": "site_photo",
+    "path": "MS-2026-0009/浇筑完成照.jpg",
+    "size": 4236,
+    "sha256": "776fa58c1e10d1b9bbebcc10714ef1cb32b547415e3a6194f499603db222e6c6"
+   },
+   {
+    "name": "警示标志清点单.txt",
+    "media": "text/plain",
+    "role": "doc_summary",
+    "path": "MS-2026-0009/警示标志清点单.txt",
+    "size": 5266,
+    "sha256": "fa84e8e75913df7b374fb691110dc3a32321ee94adab3336fb8bb1ca5e307f7b"
+   }
+  ]
+ }
+]
